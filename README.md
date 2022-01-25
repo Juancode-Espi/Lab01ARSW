@@ -8,8 +8,8 @@
    
  Podemos ver esto reflejado en: 
 ### Para el caso de Start
-![]/.Start
+![](https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Start)
 ### Para el caso de Run
-![]/.Run
+![](https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Run)
 ## Parte II - Ejercicio Black List Search
 
