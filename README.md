@@ -12,7 +12,7 @@
 (https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Start)
 ### Para el caso de Run
 ![]
-(https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Run)
+(https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Run)
 ## Parte II - Ejercicio Black List Search
 Esta realizada en el codigo 
 ## Parte III - Evaluación de Desempeño
