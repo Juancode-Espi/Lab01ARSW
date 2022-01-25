@@ -8,8 +8,13 @@
    
  Podemos ver esto reflejado en: 
 ### Para el caso de Start
-![](https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Start)
+![]
+(https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Start)
 ### Para el caso de Run
-![](https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Run)
+![]
+(https://github.com/Juancode-Espi/Lab01ARSW/Imagenes/Run)
 ## Parte II - Ejercicio Black List Search
-
+Esta realizada en el codigo 
+## Parte III - Evaluación de Desempeño
+### Proceso realizado con 1 hilo
+![]
