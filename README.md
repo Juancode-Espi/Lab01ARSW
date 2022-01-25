@@ -15,4 +15,13 @@
 Esta realizada en el codigo 
 ## Parte III - Evaluación de Desempeño
 ### Proceso realizado con 1 hilo
-![]
+![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Hilo_1.png)
+### Proceso realizado con nucleos del computador
+![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Hilo_pro.png)
+### Proceso realizado con 50 hilo
+![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Hilo_50.png)
+
+
+
+
+
