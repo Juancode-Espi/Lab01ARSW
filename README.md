@@ -21,7 +21,7 @@ Esta realizada en el codigo
 ### Proceso realizado con 50 hilo
 ![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Hilo_50.png)
 ### Proceso realizado con 100 hilos, el procesador que se tiene actualmente no lo puede mostrar en pantalla
-##Parte IV
+## Parte IV
 1. Según la ley de Amdahls pudimos identificar que no se logra el un mejor desempeño al estar corriendo 500 hilos, ya que a mayor por más
 hilos que use el programa por su tiempo de ejecución llega a un límite donde este no se puede reducir más. La explicación del porque esto sucede
 depende de los componentes que tenga el computador que ejecuta el programa.
