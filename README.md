@@ -26,7 +26,7 @@ Esta realizada en el codigo
 hilos que use el programa por su tiempo de ejecución llega a un límite donde este no se puede reducir más. La explicación del porque esto sucede
 depende de los componentes que tenga el computador que ejecuta el programa.
 2.El comportamiento del uso de tantos hilos de procesos sería más optimo con el doble de núcleos y se atribuiría mejor el paralelismo
-3. 3. Si hipotéticamente hablando tuviéramos 100 computadores y cada uno estuviera corriendo solo un hilo mejoraría, 
+3.Si hipotéticamente hablando tuviéramos 100 computadores y cada uno estuviera corriendo solo un hilo mejoraría, 
 pero no sería lo más optimo ya que cada núcleo es capaz de ejecutar una cantidad mayor de un hilo al mismo tiempo y no se aprovecharía totalmente. 
 
 
