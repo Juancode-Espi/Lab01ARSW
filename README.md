@@ -8,9 +8,9 @@
    
  Podemos ver esto reflejado en: 
 ### Para el caso de Start
-![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Start)
+![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Start.png)
 ### Para el caso de Run
-![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Run)
+![](https://github.com/Juancode-Espi/Lab01ARSW/blob/main/Imagenes/Run.png)
 ## Parte II - Ejercicio Black List Search
 Esta realizada en el codigo 
 ## Parte III - Evaluación de Desempeño
