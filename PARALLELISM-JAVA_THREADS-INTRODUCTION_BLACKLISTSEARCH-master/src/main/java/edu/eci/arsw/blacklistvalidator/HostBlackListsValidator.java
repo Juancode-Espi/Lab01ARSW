@@ -41,15 +41,25 @@ public class HostBlackListsValidator {
         HostBlacklistsDataSourceFacade skds=HostBlacklistsDataSourceFacade.getInstance();
 
         int checkedListsCount=0;
+        List<ServerSearch> searches = new LinkedList<>();
 
         int searchNumber = skds.getRegisteredServersCount()/N;
         for(int i=0; i<N ; i++){
             ServerSearch search = new ServerSearch(i*searchNumber,(i+1)*searchNumber,skds,ocurrencesCount,ipaddress);
+            searches.add(search);
             search.start();
             try{
                 search.join(10);
 
             }catch (InterruptedException e){
+                e.printStackTrace();
+            }
+        }
+        for(int i=0; i<N ; i++){
+            ServerSearch search = searches.get(i);
+            try {
+                search.join();
+            } catch (InterruptedException e) {
                 e.printStackTrace();
             }
             if( search.getOcurrencesCount() != 0 ) {
